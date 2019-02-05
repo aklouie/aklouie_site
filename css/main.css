@@ -1,0 +1,23 @@
+body {
+  font-family: 'Libre Baskerville', serif;
+}
+
+.header {
+  padding: 10% 5%;
+}
+
+.header-inner {
+
+}
+
+.about {
+
+}
+
+.about-inner {
+
+}
+
+.about-inner ul {
+  list-style: none;
+}
